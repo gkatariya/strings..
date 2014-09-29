@@ -1,0 +1,9 @@
+" base "
+you have to make new string by the concaetion of previous two string untill you reach the required step stated in Q,then search the 
+required string and coun its number of apperance.("BE AWARE OF LARGE DATA").
+
+" some mistakes "
+you can not sore that much of data that is reqired in Q.-->so think in different way.
+
+immportant reading materials :-
+1.>http://www.cplusplus.com/reference/string/string/operator+/
