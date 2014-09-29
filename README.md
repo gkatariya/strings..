@@ -1,0 +1,4 @@
+strings..
+=========
+
+SOME CODDING PROBLEMS RELATED TO "STRINGS"
